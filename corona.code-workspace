@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\CSS course\\course udemy"
+		},
+		{
+			"path": "..\\..\\CSS course\\hyperactive"
+		},
+		{
+			"path": "..\\javascriptadvanced"
+		},
+		{
+			"path": "..\\dist"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Corona"
+	}
+}

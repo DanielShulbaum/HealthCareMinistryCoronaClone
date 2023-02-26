@@ -1,0 +1,33 @@
+
+$bye:red;
+@mixin text-color($color){
+
+    color:$color;
+
+}
+
+@mixin add-child($name){
+    
+    @media screen {
+        
+    }
+    
+}
+  
+@mixin phone-only(){
+
+    @media(min-width:600px){
+        @content
+    }
+
+}
+
+.hello{
+
+    background-color: black;
+   @include text-color(g reen);
+    @include phone-only(){display:none};
+
+   
+}
+
